@@ -1,0 +1,53 @@
+body {
+  background-image: url("background.png");
+}
+
+.col-md-5 {
+  background-image: url(divbg2.png);
+  background-size: 98%;
+}
+
+.row {
+  display: flex;
+}
+
+.container-fluid .row .col-md-5 .pschoolfoto {
+  display: none;
+}
+
+.container-fluid .row .col-md-5 .pschool {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.container-fluid .row .col-md-5 .sschoolfoto {
+  display: none;
+}
+
+.container-fluid .row .col-md-5 .sschool {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.container-fluid .row .col-md-5 .uschoolfoto {
+  display: none;
+}
+
+.container-fluid .row .col-md-5 .uschool {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.container-fluid .row .col-md-5 .Awbb0 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.container-fluid .row .col-md-5 .Awbb0foto {
+  display: none;
+}
+
+.container-fluid .row .col-md-5 .content{
+  padding-left: 10%;
+  padding-right: 10%;
+}
